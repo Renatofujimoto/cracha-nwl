@@ -1,8 +1,9 @@
 const LinksSocialMedia = {
   github: 'Renatofujimoto',
-  youtube: 'jakelinygracielly',
+  linkedin: 'in/renato-fujimoto-1321b71b0',
   facebook: 'renato.fujimoto.9',
-  instagram: 'fujimotorenato'
+  instagram: 'fujimotorenato',
+  whatsapp: '5511973810368'
 }
 
 function changeSocialMediaLinks() {
